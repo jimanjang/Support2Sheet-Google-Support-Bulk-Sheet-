@@ -141,17 +141,5 @@ const VERSION = 'bulk-2025-11-03';
 * [ ] topic depth / domain scope 제한 옵션
 * [ ] Crawl step 자동 반복 트리거(시간 기반)
 
-## License
-
-MIT License (원하면 다른 라이선스로 변경하세요)
-
----
-
-원하시면
-
-* 레포 이름/설명 톤,
-* “Roadmap” 포함 여부,
-* 한국어/영어 버전 분리,
-* 실제 사용 예시 스크린샷/데모 GIF
 
 까지 맞춰서 README 더 “완성형”으로 다듬어줄게요.
